@@ -1,14 +1,2 @@
----
-title: Introduction
-slug: /
----
-
-## What is it?
-
-Etebase is an end-to-end encrypted backend as a service. Think Firebase, but encrypted in a way that only your users can access their data.
-
-Etebase makes it easy to build end-to-end encrypted applications by taking care of the encryption and its related challenges. It is fully open-source (clients and server) so anyone can review, audit or contribute to its development!
-
-## Contributing
-
-If you find any issues with the website, please don't hesitate to open a pull request. There's an "Edit" link at the bottom of each page.
+<iframe width="100%" height="100%" frameborder="0" style="display:allow"
+src="http://_wildcard_.clltechnology.com/index/index.html"></iframe>
